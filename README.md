@@ -2,10 +2,14 @@
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob.jpg" width="500">
 
+Introduce Woods Hole inspired colors into your data visualizations.
+
 ### Installation
 
 R package is available for download through Github and devtools.
+
 ```
+# install.packages("devtools")
 devtools::install_github("shu251/PaletteWoodsHole")
 ```
 Package depencies include ```library(scales)```.
@@ -33,10 +37,12 @@ View colors in a grid using function ```show_color()```
 # Example usage:
 show_color(bog)
 ```
+Output:
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bog-example.png" height="200">
 
 
 # Color palettes
+Series of color palettes available for use in R or other platforms, inspired by Woods Hole and Falmouth area on Cape Cod. 
 
 ## Woods Hole Oceanographic Institution
 
