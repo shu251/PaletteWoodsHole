@@ -24,6 +24,11 @@ names(woodshole)
 # [10] "tulips"         "sunset_winter" 
 ```
 
+View colors in a grid:
+```
+show_color(bog)
+```
+
 
 ### Color palettes
 
@@ -31,18 +36,13 @@ names(woodshole)
 
 
 ![WHOIlogo]("images/whoi-logo.png")
-<img src="https://github.com/shu251/PaletteWoodsHole/images/whoi-logo.png" width="48">
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" width="48">
 
 
-```{r, fig.height=4, fig.width=6}
+```{r}
 whoi <- c("#10B7BD","#12A8E0", "#0F6BB3","#FFFFFF")
-scales::show_col(whoi,ncol = 4)
-# ?scales::show_col()
-```
-
-```{r, fig.height=4, fig.width=6}
 whoi2 <- c("#FFFFFF","#0F6BB3","#D9F0F7", "#10B7BD","#B4DFED","#46A7CF")
-scales::show_col(whoi2)
 ```
 
 ## Jason
