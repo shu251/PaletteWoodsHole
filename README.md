@@ -35,10 +35,6 @@ show_color(bog)
 ```
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bog-example.png" height="200">
 
-```{r}
-data(nycflights)
-```
-
 
 # Color palettes
 
@@ -66,7 +62,7 @@ jason <- c("#044F9A","#fec44f", "#5D86C3", "#fc4e2a", "#B6C8DB", "#2A394F")
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/Atlantis.jpg" width="320">
 
-**Image from WHOI**
+_Image from WHOI_
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-sunset.jpg" width="320">
 
@@ -75,19 +71,19 @@ atlantis <- c("#9DBABB","#1B334B","#CFBC9F",
               "#576F70","#091A2A","#301609",
               "#E0E5E5","#596873","#878A7E")
 ```
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-line.png" height="100">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-line.png" height="90">
 
 ## Woods Hole & Falmouth
 
 ### West Falmouth sunset
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/west-fal-sunset.jpg" width="300">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/west-fal-sunset.jpg" width="350">
 
 ```
 wefa_sun <- c("#DDC794", "#B5623A", "#F95316","#584438",
               "#EEBA62","#8C3B25","#9B8E77","#917062")
 ```
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/wefa-line.png" height="150">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/wefa-line.png" height="90">
 
 ### Shining Sea Bikeway
 
@@ -116,17 +112,19 @@ bog <- c("#AC7070","#D6D9DA", "#33291B","#C5C7C7", "#937771","#5A4A35")
 ```
 rocky_beach <- c("#716347","#476AA7","#7299CE","#A2937A","#B2C9E3","#3D3019")
 ```
-
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/rocky-line.png" height="100">
 
 ## Eel pond - winter
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/eel-pond-winter.jpg" width="250">
 
-
 ```
 eelpond_winter <- c("#E1E7ED","#C5C9CF","#353638",
                     "#6A7072","#AAAEB3","#ffffff")
 ```
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/eelpond-winter-line.png" height="100">
+
 
 ## Spring
 
@@ -139,11 +137,18 @@ tulips <- c("#D77D36", "#E4BF62", "#79805E",
             "#B24236","#fed976","#5A7356")
 ```
 
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/tulips-line.png" height="100">
+
+
 ## Winter Sunset
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/sunset-winter.jpg" width="300">
-
 
 ```
 sunset_winter <- c("#FDEAAB","#E9B27A","#A8B1BD","#B58975","#DBDBD2","#F6E7C1")
 ```
 
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/sunset_winter-line.png" height="100">
+
+
+### Info
+Last updated February 2021 - SKH.
