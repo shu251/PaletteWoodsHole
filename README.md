@@ -1,6 +1,6 @@
 ## Woods Hole Palettes
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob.heic" width="550">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob.png" width="550">
 
 ### Installation
 
@@ -8,6 +8,7 @@ R package is available for download through Github and devtools.
 ```
 devtools::install_github("shu251/PaletteWoodsHole")
 ```
+Package depencies include ```library(scales)```.
 
 ### Usage
 
