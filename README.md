@@ -1,6 +1,6 @@
 ## Woods Hole Palettes
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob.png" width="500">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob.jpg" width="500">
 
 ### Installation
 
@@ -12,6 +12,7 @@ Package depencies include ```library(scales)```.
 
 ### Usage
 
+Load library
 ```
 library(PaletteWoodsHole)
 ```
@@ -32,7 +33,12 @@ View colors in a grid using function ```show_color()```
 # Example usage:
 show_color(bog)
 ```
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bog-example.png" height="80">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bog-example.png" height="200">
+
+```{r}
+data(nycflights)
+```
+
 
 # Color palettes
 
@@ -77,27 +83,30 @@ atlantis <- c("#9DBABB","#1B334B","#CFBC9F",
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/west-fal-sunset.jpg" width="300">
 
-```{r}
+```
 wefa_sun <- c("#DDC794", "#B5623A", "#F95316","#584438",
               "#EEBA62","#8C3B25","#9B8E77","#917062")
 ```
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/wefa-line.png" height="100">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/wefa-line.png" height="150">
 
 ### Shining Sea Bikeway
 
-<img src= "https://github.com/shu251/PaletteWoodsHole/blob/master/images/shiningsea.jpg" width = "200">
+<img src= "https://github.com/shu251/PaletteWoodsHole/blob/master/images/shiningsea.jpg" width = "250">
+
 ```
 bikepath <- c("#6C6865","#595E44","#869055","#E1DFEA","#313E1C","#D0D4DC","#BCB277")
 ```
+
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bikepath-line.png" height="100">
 
 
 ### Cranberry Bog
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bog.jpg" width="300">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/cranberrybog.jpg" width="300">
 
 ```
 bog <- c("#AC7070","#D6D9DA", "#33291B","#C5C7C7", "#937771","#5A4A35")
 ```
+
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bog-line.png" height="100">
 
 ## Rocky beach
@@ -112,6 +121,8 @@ rocky_beach <- c("#716347","#476AA7","#7299CE","#A2937A","#B2C9E3","#3D3019")
 ## Eel pond - winter
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/eel-pond-winter.jpg" width="250">
+
+
 ```
 eelpond_winter <- c("#E1E7ED","#C5C9CF","#353638",
                     "#6A7072","#AAAEB3","#ffffff")
@@ -120,6 +131,8 @@ eelpond_winter <- c("#E1E7ED","#C5C9CF","#353638",
 ## Spring
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/spring.jpg" width="250">
+
+
 ```
 tulips <- c("#D77D36", "#E4BF62", "#79805E", 
             "#E2DBC7","#81A063","#fa9fb5",
@@ -128,6 +141,8 @@ tulips <- c("#D77D36", "#E4BF62", "#79805E",
 
 ## Winter Sunset
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/sunset-winter.jpg" width="300">
+
+
 ```
 sunset_winter <- c("#FDEAAB","#E9B27A","#A8B1BD","#B58975","#DBDBD2","#F6E7C1")
 ```
