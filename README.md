@@ -28,43 +28,44 @@ View colors in a grid:
 ```
 show_color(bog)
 ```
-
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bog-example.png" height="80">
 
 ## Color palettes
 
 ### Woods Hole Oceanographic Institution
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" width="55">
-```{r}
+
+```
 whoi <- c("#10B7BD","#12A8E0", "#0F6BB3","#FFFFFF")
 whoi2 <- c("#FFFFFF","#0F6BB3","#D9F0F7", "#10B7BD","#B4DFED","#46A7CF")
 ```
-# <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" height="10">
-# <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" height="10">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi1-line.png" height="50">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi2-line.png" height="50">
 
 #### Jason
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/jason.jpg" width="90">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/jason.jpg" width="200">
 
-```{r}
+```
 jason <- c("#044F9A","#fec44f", "#5D86C3", "#fc4e2a", "#B6C8DB", "#2A394F")
 ```
-# <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" height="10">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/jason-line.png" height="50">
 
 #### Atlantis
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/Atlantis.jpg" width="90">
-_Image from WHOI_
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/Atlantis.jpg" width="140">
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-sunset.jpg" width="90">
+**Image from WHOI**
 
-```{r}
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-sunset.jpg" width="140">
+
+```
 atlantis <- c("#9DBABB","#1B334B","#CFBC9F",
               "#576F70","#091A2A","#301609",
               "#E0E5E5","#596873","#878A7E")
-scales::show_col(atlantis)
 ```
-# <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" height="10">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-line.png" height="40">
 
 ### Woods Hole & Falmouth
 
