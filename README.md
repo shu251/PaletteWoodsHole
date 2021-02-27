@@ -149,6 +149,31 @@ sunset_winter <- c("#FDEAAB","#E9B27A","#A8B1BD","#B58975","#DBDBD2","#F6E7C1")
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/sunset_winter-line.png" height="100">
 
+### Example usage in ggplot
+
+Bar plot using custom Woods Hole palette.
+```
+# Load libraries
+library(PaletteWoodsHole)
+library(tidyverse)
+
+# plot star wars character heights using custom color palette
+starwars %>% 
+  filter(!is.na(height)) %>% 
+  sample_n(6) %>% 
+  ggplot(aes(x = name, y = height, fill = name)) +
+    geom_bar(stat = "identity", color = "black", aes(fill = name)) +
+    ##
+    scale_fill_manual(values = sunset_winter) +
+    ##
+    scale_y_continuous(expand = c(0,0)) +
+    theme_classic() +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1)) +
+  labs(x = "", y = "Height", title = "Star Wars character height")
+```
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/example-bar.png" height="300">
+
 
 ### Info
 Last updated February 2021 - SKH.
