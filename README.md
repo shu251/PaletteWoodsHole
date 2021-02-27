@@ -30,46 +30,33 @@ show_color(bog)
 ```
 
 
-### Color palettes
+## Color palettes
 
-## Woods Hole Oceanographic Institution
+### Woods Hole Oceanographic Institution
 
-
-![WHOIlogo]("images/whoi-logo.png")
-
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" width="48">
-
-
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" width="55">
 ```{r}
 whoi <- c("#10B7BD","#12A8E0", "#0F6BB3","#FFFFFF")
 whoi2 <- c("#FFFFFF","#0F6BB3","#D9F0F7", "#10B7BD","#B4DFED","#46A7CF")
 ```
+# <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" height="10">
+# <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" height="10">
 
-## Jason
-```{r, out.width = '20%'}
-knitr::include_graphics("images/jason.jpg")
-```
+#### Jason
 
-```{r, fig.height=4, fig.width=6}
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/jason.jpg" width="90">
+
+```{r}
 jason <- c("#044F9A","#fec44f", "#5D86C3", "#fc4e2a", "#B6C8DB", "#2A394F")
-scales::show_col(jason)
 ```
+# <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" height="10">
 
-## Alvin
-```{r}
+#### Atlantis
 
-```
-```{r}
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/Atlantis.jpg" width="90">
+_Image from WHOI_
 
-```
-
-
-## Atlantis
-```{r, out.width='30%'}
-knitr::include_graphics("images/atlantis-sunset.jpg")
-```
-
-
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-sunset.jpg" width="90">
 
 ```{r}
 atlantis <- c("#9DBABB","#1B334B","#CFBC9F",
@@ -77,19 +64,19 @@ atlantis <- c("#9DBABB","#1B334B","#CFBC9F",
               "#E0E5E5","#596873","#878A7E")
 scales::show_col(atlantis)
 ```
+# <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" height="10">
 
+### Woods Hole & Falmouth
 
-## Woods Hole & Falmouth
-### West Falmouth sunset
-```{r sunset, echo=FALSE,  out.width = '40%'}
-knitr::include_graphics("images/west-fal-sunset.jpg")
-```
+#### West Falmouth sunset
 
-```{r, fig.height=4, fig.width=6}
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/west-fal-sunset.jpg" width="90">
+
+```{r}
 wefa_sun <- c("#DDC794", "#B5623A", "#F95316","#584438",
               "#EEBA62","#8C3B25","#9B8E77","#917062")
-scales::show_col(wefa_sun, ncol = 4)
 ```
+# <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" height="10">
 
 ### Shining Sea Bikeway
 
