@@ -1,6 +1,6 @@
 ## Woods Hole Palettes
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob.png" width="550">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob.heic" width="550">
 
 ### Installation
 
@@ -22,7 +22,7 @@ names(woodshole)
  # [1] "whoi"           "whoi2"          "jason"         
  # [4] "atlantis"       "wefa_sun"       "bikepath"      
  # [7] "bog"            "rocky_beach"    "eelpond_winter"
-# [10] "tulips"         "sunset_winter" 
+ # [10] "tulips"         "sunset_winter" 
 ```
 
 View colors in a grid using function ```show_color()```
