@@ -1,6 +1,6 @@
 ## Woods Hole Palettes
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob.png" width="550">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob.png" width="500">
 
 ### Installation
 
@@ -93,7 +93,7 @@ bikepath <- c("#6C6865","#595E44","#869055","#E1DFEA","#313E1C","#D0D4DC","#BCB2
 
 
 ### Cranberry Bog
-<img src= "https://github.com/shu251/PaletteWoodsHole/blob/master/images/bog.jpg" width = "300">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bog.jpg" width="300">
 
 ```
 bog <- c("#AC7070","#D6D9DA", "#33291B","#C5C7C7", "#937771","#5A4A35")
@@ -102,6 +102,7 @@ bog <- c("#AC7070","#D6D9DA", "#33291B","#C5C7C7", "#937771","#5A4A35")
 
 ## Rocky beach
 
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/rocky-beach.jpg" width="300">
 
 ```
 rocky_beach <- c("#716347","#476AA7","#7299CE","#A2937A","#B2C9E3","#3D3019")
@@ -110,13 +111,15 @@ rocky_beach <- c("#716347","#476AA7","#7299CE","#A2937A","#B2C9E3","#3D3019")
 
 ## Eel pond - winter
 
-```{r}
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/eel-pond-winter.jpg" width="250">
+```
 eelpond_winter <- c("#E1E7ED","#C5C9CF","#353638",
                     "#6A7072","#AAAEB3","#ffffff")
 ```
 
 ## Spring
 
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/spring.jpg" width="250">
 ```
 tulips <- c("#D77D36", "#E4BF62", "#79805E", 
             "#E2DBC7","#81A063","#fa9fb5",
@@ -124,7 +127,7 @@ tulips <- c("#D77D36", "#E4BF62", "#79805E",
 ```
 
 ## Winter Sunset
-
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/sunset-winter.jpg" width="300">
 ```
 sunset_winter <- c("#FDEAAB","#E9B27A","#A8B1BD","#B58975","#DBDBD2","#F6E7C1")
 ```
