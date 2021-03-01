@@ -25,10 +25,13 @@ To see all palette names available:
 ```
 names(woodshole)
 
- # [1] "whoi"           "whoi2"          "jason"         
- # [4] "atlantis"       "wefa_sun"       "bikepath"      
- # [7] "bog"            "rocky_beach"    "eelpond_winter"
- # [10] "tulips"         "sunset_winter" 
+#  [1] "whoi"           "whoisec"       
+#  [3] "jason"          "atlantis"      
+#  [5] "wefa_sun"       "bikepath"      
+#  [7] "bog"            "rocky_beach"   
+#  [9] "eelpond_winter" "tulips"        
+# [11] "sunset_winter"  "dock"          
+# [13] "marsh"    
 ```
 
 View colors in a grid using function ```show_color()```
@@ -49,11 +52,14 @@ Series of color palettes available for use in R or other platforms, inspired by 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" width="55">
 
 ```
-whoi <- c("#10B7BD","#12A8E0", "#0F6BB3","#FFFFFF")
-whoi2 <- c("#FFFFFF","#0F6BB3","#D9F0F7", "#10B7BD","#B4DFED","#46A7CF")
+whoi <- c("#041E42", "#00A9E0", "#0069B1", "#00B7BD", "#53565A", "#BBBCBC")
+
+whoisec <- c("#FFD100", "#EE5340", "#E6E7E8", "#B7BF10")
 ```
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi1-line.png" height="100">
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi2-line.png" height="100">
+Derived from the WHOI graphics department color palette.
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-prim.png" height="90">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-sec.png" height="90">
 
 ### Jason
 

@@ -5,7 +5,7 @@
 \alias{whoi}
 \title{WHOI logo}
 \format{
-HEX color elements that match the logo
+HEX color elements that match the logo.
 ...
 }
 \source{
@@ -15,6 +15,6 @@ HEX color elements that match the logo
 whoi
 }
 \description{
-A list of HEX colors, n = 4
+A list of HEX colors, n = 6. Colors derived from the WHOI graphics and WHOI color palette
 }
 \keyword{datasets}

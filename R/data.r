@@ -1,21 +1,21 @@
 #' WHOI logo
 #'
-#' A list of HEX colors, n = 4
+#' A list of HEX colors, n = 6. Colors derived from the WHOI graphics and WHOI color palette
 #'
-#' @format HEX color elements that match the logo
+#' @format HEX color elements that match the logo.
 #'   ...
 #' @source \url{https://www.whoi.edu}
 "whoi"
 
 
-#' WHOI logo 2
+#' WHOI secondary
 #'
-#' A list of HEX colors, n = 6
+#' A list of HEX colors, n = 4, that are the WHOI secondary color palette
 #'
-#' @format HEX color elements that match the logo
+#' @format HEX color elements that are secondary.
 #'   ...
 #' @source \url{https://www.whoi.edu}
-"whoi2"
+"whoisec"
 
 
 #' Atlantis

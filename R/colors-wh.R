@@ -3,8 +3,8 @@
 #'
 #' @export
 woodshole <- list(
-  whoi <- c("#10B7BD","#12A8E0", "#0F6BB3","#FFFFFF"),
-  whoi2 <- c("#FFFFFF","#0F6BB3","#D9F0F7", "#10B7BD","#B4DFED","#46A7CF"),
+  whoi <- c("#041E42", "#00A9E0", "#0069B1", "#00B7BD", "#53565A", "#BBBCBC"),
+  whoisec <- c("#FFD100", "#EE5340", "#E6E7E8", "#B7BF10"),
   jason <- c("#044F9A","#fec44f", "#5D86C3", "#fc4e2a", "#B6C8DB", "#2A394F"),
   atlantis <- c("#9DBABB","#1B334B","#CFBC9F",
                 "#576F70","#091A2A","#301609",
