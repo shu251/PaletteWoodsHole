@@ -45,49 +45,11 @@ Output:
 
 
 # Color palettes
-Series of color palettes available for use in R or other platforms, inspired by Woods Hole and Falmouth area on Cape Cod. 
-
-## Woods Hole Oceanographic Institution
-
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" width="55">
-
-```
-whoi <- c("#041E42", "#00A9E0", "#0069B1", "#00B7BD", "#53565A", "#BBBCBC")
-
-whoisec <- c("#FFD100", "#EE5340", "#E6E7E8", "#B7BF10")
-```
-Derived from the WHOI graphics department color palette.
-
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-prim.png" height="90">
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-sec.png" height="90">
-
-### Jason
-
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/jason.jpg" width="400">
-
-```
-jason <- c("#044F9A","#fec44f", "#5D86C3", "#fc4e2a", "#B6C8DB", "#2A394F")
-```
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/jason-line.png" height="100">
-
-### Atlantis
-
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/Atlantis.jpg" width="320">
-
-_Image from WHOI_
-
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-sunset.jpg" width="320">
-
-```
-atlantis <- c("#9DBABB","#1B334B","#CFBC9F",
-              "#576F70","#091A2A","#301609",
-              "#E0E5E5","#596873","#878A7E")
-```
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-line.png" height="90">
+Series of color palettes available for use in R or other platforms, inspired by the Woods Hole and Falmouth area on Cape Cod and Woods Hole Oceanographic Institution.
 
 ## Woods Hole & Falmouth
 
-### West Falmouth sunset
+## West Falmouth sunset
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/west-fal-sunset.jpg" width="350">
 
@@ -97,7 +59,7 @@ wefa_sun <- c("#DDC794", "#B5623A", "#F95316","#584438",
 ```
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/wefa-line.png" height="90">
 
-### Shining Sea Bikeway
+## Shining Sea Bikeway
 
 <img src= "https://github.com/shu251/PaletteWoodsHole/blob/master/images/shiningsea.jpg" width = "250">
 
@@ -108,7 +70,7 @@ bikepath <- c("#6C6865","#595E44","#869055","#E1DFEA","#313E1C","#D0D4DC","#BCB2
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/bikepath-line.png" height="100">
 
 
-### Cranberry Bog
+## Cranberry Bog
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/cranberrybog.jpg" width="300">
 
 ```
@@ -180,6 +142,44 @@ marsh <- c("#5B2A14", "#AE5D3F", "#A02E35", "#665438", "#A27F41", "#A99152", "#D
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/marsh-line.png" height="100">
 
+## Woods Hole Oceanographic Institution
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" width="55">
+
+```
+whoi <- c("#041E42", "#00A9E0", "#0069B1", "#00B7BD", "#53565A", "#BBBCBC")
+
+whoisec <- c("#FFD100", "#EE5340", "#E6E7E8", "#B7BF10")
+```
+Derived from the WHOI graphics department color palette.
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-prim.png" height="90">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-sec.png" height="90">
+
+### Jason
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/jason.jpg" width="400">
+
+```
+jason <- c("#044F9A","#fec44f", "#5D86C3", "#fc4e2a", "#B6C8DB", "#2A394F")
+```
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/jason-line.png" height="100">
+
+### Atlantis
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/Atlantis.jpg" width="320">
+
+_Image from WHOI_
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-sunset.jpg" width="320">
+
+```
+atlantis <- c("#9DBABB","#1B334B","#CFBC9F",
+              "#576F70","#091A2A","#301609",
+              "#E0E5E5","#596873","#878A7E")
+```
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-line.png" height="90">
+
 
 ### Example usage in ggplot
 
@@ -208,6 +208,6 @@ starwars %>%
 
 
 ### Info & resources
-Last updated March 2021 - SKH. All images from Sarah Hu, unless otherwise stated. [R package development guidance](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/).
+_Last updated March 2021 - SKH._ All images from Sarah Hu, unless otherwise stated. [R package development guidance](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/).
 
-Compilation of HEX colors for each photo derived from color picking with Affinity designer and selection with [color brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
+Compilation of HEX colors for each photo curated using color picking with Affinity designer and selection with [color brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
