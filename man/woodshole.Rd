@@ -5,13 +5,10 @@
 \alias{woodshole}
 \title{Complete list of woods hole color palettes}
 \format{
-An object of class \code{list} of length 11.
+An object of class \code{list} of length 13.
 
 List of all Woods Hole color palettes available in the package.
 ...
-}
-\source{
-\url{}
 }
 \usage{
 woodshole

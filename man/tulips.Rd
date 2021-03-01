@@ -8,9 +8,6 @@
 HEX color elements for tulips
 ...
 }
-\source{
-\url{}
-}
 \usage{
 tulips
 }

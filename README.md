@@ -155,6 +155,26 @@ sunset_winter <- c("#FDEAAB","#E9B27A","#A8B1BD","#B58975","#DBDBD2","#F6E7C1")
 
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/sunset_winter-line.png" height="100">
 
+
+## Dock at Eel Pond
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/dock.png" width="300">
+
+```
+dock <- c("#6FA9E4", "#A4723F","#577383", "#F8F5E5", "#D1AB8A", "#FBDB9A","#5C5E5E", "#A12531", "#59372B")
+```
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/dock-line.png" height="100">
+
+## Marsh
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/marsh.png" width="300">
+
+```
+marsh <- c("#5B2A14", "#AE5D3F", "#A02E35", "#665438", "#A27F41", "#A99152", "#D7C598", "#767D27", "#8C8987")
+```
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/marsh-line.png" height="100">
+
+
 ### Example usage in ggplot
 
 Bar plot using custom Woods Hole palette.
@@ -181,5 +201,7 @@ starwars %>%
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/example-bar.png" height="300">
 
 
-### Info
-Last updated February 2021 - SKH.
+### Info & resources
+Last updated March 2021 - SKH. All images from Sarah Hu, unless otherwise stated. [R package development guidance](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/).
+
+Compilation of HEX colors for each photo derived from color picking with Affinity designer and selection with [color brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).

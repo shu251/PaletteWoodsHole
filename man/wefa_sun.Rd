@@ -8,9 +8,6 @@
 HEX color elements for West Falmouth sunset
 ...
 }
-\source{
-\url{}
-}
 \usage{
 wefa_sun
 }

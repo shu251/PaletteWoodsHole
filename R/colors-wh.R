@@ -19,5 +19,7 @@ woodshole <- list(
   tulips <- c("#D77D36", "#E4BF62", "#79805E",
               "#E2DBC7","#81A063","#fa9fb5",
               "#B24236","#fed976","#5A7356"),
-  sunset_winter <- c("#FDEAAB","#E9B27A","#A8B1BD","#B58975","#DBDBD2","#F6E7C1")
+  sunset_winter <- c("#FDEAAB","#E9B27A","#A8B1BD","#B58975","#DBDBD2","#F6E7C1"),
+  dock <- c("#6FA9E4", "#A4723F","#577383", "#F8F5E5", "#D1AB8A", "#FBDB9A","#5C5E5E", "#A12531", "#59372B"),
+  marsh <- c("#5B2A14", "#AE5D3F", "#A02E35", "#665438", "#A27F41", "#A99152", "#D7C598", "#767D27", "#8C8987")
 )

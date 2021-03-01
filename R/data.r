@@ -70,7 +70,6 @@
 #'
 #' @format HEX color elements for rocky beach
 #'   ...
-#' @source \url{}
 "rocky_beach"
 
 #' Sunset winter
@@ -79,7 +78,6 @@
 #'
 #' @format HEX color elements for wintertime sunset
 #'   ...
-#' @source \url{}
 "sunset_winter"
 
 #' Tulips
@@ -88,7 +86,6 @@
 #'
 #' @format HEX color elements for tulips
 #'   ...
-#' @source \url{}
 "tulips"
 
 #' West Falmouth Sunset
@@ -97,7 +94,6 @@
 #'
 #' @format HEX color elements for West Falmouth sunset
 #'   ...
-#' @source \url{}
 "wefa_sun"
 
 #' Woods Hole color palette
@@ -106,5 +102,20 @@
 #'
 #' @format List of all Woods Hole color palettes available in the package.
 #'   ...
-#' @source \url{}
 "woodshole"
+
+#' Dock color palette
+#'
+#' Image of a dock from Eel Pond in Woods Hole. n =9 colors
+#'
+#' @format List of colors that represent dock.
+#'   ...
+"dock"
+
+#' Marsh color palette
+#'
+#' Image of Sippewissett marsh n =9 colors
+#'
+#' @format List of colors that represent marsh essence!
+#'   ...
+"marsh"

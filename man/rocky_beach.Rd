@@ -8,9 +8,6 @@
 HEX color elements for rocky beach
 ...
 }
-\source{
-\url{}
-}
 \usage{
 rocky_beach
 }

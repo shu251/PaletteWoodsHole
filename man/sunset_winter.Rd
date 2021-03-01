@@ -8,9 +8,6 @@
 HEX color elements for wintertime sunset
 ...
 }
-\source{
-\url{}
-}
 \usage{
 sunset_winter
 }
