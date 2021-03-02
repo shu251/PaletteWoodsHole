@@ -56,7 +56,7 @@ Series of color palettes available for use in R or other platforms, inspired by 
 
 ## West Falmouth sunset
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/west-fal-sunset.jpg" width="350">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/west-fal-sunset.jpg" width="400">
 
 ```
 wefa_sun <- c("#DDC794", "#B5623A", "#F95316","#584438",
@@ -76,7 +76,7 @@ bikepath <- c("#6C6865","#595E44","#869055","#E1DFEA","#313E1C","#D0D4DC","#BCB2
 
 
 ## Cranberry Bog
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/cranberrybog.jpg" width="350">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/cranberrybog.jpg" width="400">
 
 ```
 bog <- c("#AC7070","#D6D9DA", "#33291B","#C5C7C7", "#937771","#5A4A35")
@@ -95,7 +95,7 @@ rocky_beach <- c("#716347","#476AA7","#7299CE","#A2937A","#B2C9E3","#3D3019")
 
 ## Eel pond - winter
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/eel-pond-winter.jpg" width="350">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/eel-pond-winter.jpg" width="400">
 
 ```
 eelpond_winter <- c("#E1E7ED","#C5C9CF","#353638",
@@ -185,7 +185,7 @@ long_pond = c("#C9A456", "#E27741", "#CB4E07","#8A9B5E",
 
 ### Siders Pond
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/siders.png" width="700">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/siders.png" width="800">
 
 _Image from Huber lab_
 
@@ -280,7 +280,7 @@ starwars %>%
   labs(x = "", y = "Height", title = "Star Wars character height")
 ```
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/example-bar.png" height="300">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/example-bar.png" height="400">
 
 
 ### Info & resources
