@@ -148,7 +148,7 @@ marsh <- c("#5B2A14", "#AE5D3F", "#A02E35", "#665438", "#A27F41", "#A99152", "#D
 
 ## The Knob
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob1.png", height="120">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob1.png" height="120">
 _Image from Julie Huber_
 
 ```
@@ -157,7 +157,7 @@ knob1 = c("#6D635F","#455455","#929999",
           "#F58F52", "#EB6525")
 ```
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob2.png", height="120">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob2.png" height="120">
 _Image from Julie Huber_
 
 ```
@@ -167,8 +167,9 @@ knob2 = c("#96A1B9", "#E6CBA9", "#856841",
 
 ## Long Pond
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/longpond.png", height="120">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/longpond.png" height="120">
 _Image from Julie Huber_
+
 ```
 long_pond = c("#C9A456", "#E27741", "#CB4E07","#8A9B5E",
               "#643830", "#ABC9CB", "#DAB576", "#B04029")
@@ -178,8 +179,9 @@ long_pond = c("#C9A456", "#E27741", "#CB4E07","#8A9B5E",
 
 ### Siders Pond
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/siders.png" width="350">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/siders.png" width="600">
 _Image from Huber lab_
+
 ```
 siders = c("#B8BFD0", "#F8EBDA", "#FDE7C4", 
            "#F9C79F", "#6D3F23", "#787677", 
@@ -192,6 +194,7 @@ siders_filters = c("#D8C68E", "#B29A43", "#AA8E71",
 ### Field work at Siders Pond
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/siders-summer.png" width="350">
 _Image from the Huber lab_
+
 ```
 siders_summer = c("#738EC0", "#435633", "#5570A1", 
                   "#647825", "#F36556", "#9CA0D6")
