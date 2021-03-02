@@ -76,7 +76,7 @@ bikepath <- c("#6C6865","#595E44","#869055","#E1DFEA","#313E1C","#D0D4DC","#BCB2
 
 
 ## Cranberry Bog
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/cranberrybog.jpg" width="300">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/cranberrybog.jpg" width="350">
 
 ```
 bog <- c("#AC7070","#D6D9DA", "#33291B","#C5C7C7", "#937771","#5A4A35")
@@ -95,7 +95,7 @@ rocky_beach <- c("#716347","#476AA7","#7299CE","#A2937A","#B2C9E3","#3D3019")
 
 ## Eel pond - winter
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/eel-pond-winter.jpg" width="250">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/eel-pond-winter.jpg" width="350">
 
 ```
 eelpond_winter <- c("#E1E7ED","#C5C9CF","#353638",
@@ -148,7 +148,8 @@ marsh <- c("#5B2A14", "#AE5D3F", "#A02E35", "#665438", "#A27F41", "#A99152", "#D
 
 ## The Knob
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob1.png" height="120">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob1.png" width="500">
+
 _Image from Julie Huber_
 
 ```
@@ -157,7 +158,8 @@ knob1 = c("#6D635F","#455455","#929999",
           "#F58F52", "#EB6525")
 ```
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob2.png" height="120">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob2.png" width="500">
+
 _Image from Julie Huber_
 
 ```
@@ -167,7 +169,8 @@ knob2 = c("#96A1B9", "#E6CBA9", "#856841",
 
 ## Long Pond
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/longpond.png" height="120">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/longpond.png" width="550">
+
 _Image from Julie Huber_
 
 ```
@@ -179,7 +182,8 @@ long_pond = c("#C9A456", "#E27741", "#CB4E07","#8A9B5E",
 
 ### Siders Pond
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/siders.png" width="600">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/siders.png" width="700">
+
 _Image from Huber lab_
 
 ```
@@ -192,7 +196,8 @@ siders_filters = c("#D8C68E", "#B29A43", "#AA8E71",
 ```
 
 ### Field work at Siders Pond
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/siders-summer.png" width="350">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/siders-summer.png" width="550">
+
 _Image from the Huber lab_
 
 ```
@@ -202,7 +207,7 @@ siders_summer = c("#738EC0", "#435633", "#5570A1",
 
 ## Woods Hole Oceanographic Institution
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" width="55">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/whoi-logo.png" width="70">
 
 ```
 whoi <- c("#041E42", "#00A9E0", "#0069B1", "#00B7BD", "#53565A", "#BBBCBC")
@@ -225,6 +230,7 @@ jason <- c("#044F9A","#fec44f", "#5D86C3", "#fc4e2a", "#B6C8DB", "#2A394F")
 
 ### Alvin
 <img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/alvin.png" width="400">
+
 _Image from WHOI_
 
 ```
@@ -234,10 +240,11 @@ alvin = c("#DBFCFD", "#EF6A3F", "#145178",
 
 ### Atlantis
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/Atlantis.jpg" width="320">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/Atlantis.jpg" width="400">
+
 _Image from WHOI_
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-sunset.jpg" width="320">
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/atlantis-sunset.jpg" width="400">
 
 ```
 atlantis <- c("#9DBABB","#1B334B","#CFBC9F",
