@@ -119,3 +119,59 @@
 #' @format List of colors that represent marsh essence!
 #'   ...
 "marsh"
+
+#' Siders color palette
+#'
+#' Image of Siders pond at sunset
+#'
+#' @format List of colors that represent Siders, HEX
+#'   ...
+"siders"
+
+#' Siders filters color palette
+#'
+#' Filters collected from depth profile at Siders pond
+#'
+#' @format List of colors that represent Siders, HEX
+#'   ...
+"siders_filters"
+
+#' Siders color palette in summer
+#'
+#' Image of Siders pond in the summer, doing field work.
+#'
+#' @format List of colors that represent Siders, HEX
+#'   ...
+"siders_summer"
+
+#' Alvin color palette
+#'
+#' Image of HOV alvin
+#'
+#' @format List of colors that represent Alvin at WHOI.
+#'   ...
+"alvin"
+
+#' Long Pond color palette
+#'
+#' Image of Long Pond in the fall
+#'
+#' @format List of colors that represent Long Pond, HEX
+#'   ...
+"long_pond"
+
+#' Color palette from the Knob at sunset
+#'
+#' Image of the Knob beach
+#'
+#' @format List of colors that represent tee Knob
+#'   ...
+"knob1"
+
+#' The Knob at sunseet
+#'
+#' Image of the Knob
+#'
+#' @format List of colors that represent the Knob
+#'   ...
+"knob2"
