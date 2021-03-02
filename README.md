@@ -153,17 +153,20 @@ marsh <- c("#5B2A14", "#AE5D3F", "#A02E35", "#665438", "#A27F41", "#A99152", "#D
 _Image from Julie Huber_
 
 ```
-knob1 = c("#6D635F","#455455","#929999", 
+knob = c("#6D635F","#455455","#929999", 
           "#D8C7AE", "#F4C088", "#FFFA78",
           "#F58F52", "#EB6525")
 ```
 
-<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/knob2.png" width="500">
+
+## Naushon Island, Hadley Harbor
+
+<img src="https://github.com/shu251/PaletteWoodsHole/blob/master/images/naushon.png" width="500">
 
 _Image from Julie Huber_
 
 ```
-knob2 = c("#96A1B9", "#E6CBA9", "#856841",
+naushon = c("#96A1B9", "#E6CBA9", "#856841",
           "#DD9571", "#5B5B8A", "#C67B33")
 ```
 
