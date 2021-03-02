@@ -166,12 +166,12 @@
 #'
 #' @format List of colors that represent tee Knob
 #'   ...
-"knob1"
+"knob"
 
-#' The Knob at sunseet
+#' Naushon Island, Hadley Harbor
 #'
-#' Image of the Knob
+#' Image from Naushon Island
 #'
-#' @format List of colors that represent the Knob
+#' @format List of colors that represent Naushon Island
 #'   ...
-"knob2"
+"naushon"

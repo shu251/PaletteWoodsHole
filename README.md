@@ -35,7 +35,7 @@ names(woodshole)
 # [13] "marsh"          "siders_filters"
 # [15] "siders"         "siders_summer" 
 # [17] "alvin"          "long_pond"     
-# [19] "knob1"          "knob2"    
+# [19] "knob"           "naushon"    
 ```
 
 View colors in a grid using function ```show_color()```
