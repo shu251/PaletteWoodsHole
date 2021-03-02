@@ -284,6 +284,10 @@ starwars %>%
 
 
 ### Info & resources
-_Last updated March 2021 - SKH._ All images from Sarah Hu, unless otherwise stated. [R package development guidance](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/).
+* Last updated March 2, 2021 - SKH
+* All images from Sarah Hu, unless otherwise stated (likely from Julie's Instagram).
+* These palettes are inspired by territory that was stolen from the Nauset People and Wampanoag Nation (People of the First Light). I acknowledge that this land has a history of forced removal of the Native peoples, and express gratitude to the Wampanoag Nation for the land I live and work on.
+* [R package development guidance](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/). 
+* Compilation of HEX colors for each photo curated using color picking with Affinity designer and selection with [color brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
 
-Compilation of HEX colors for each photo curated using color picking with Affinity designer and selection with [color brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
+
